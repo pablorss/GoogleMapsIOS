@@ -4,9 +4,9 @@
 <array>
 	<dict>
 		<key>longitud</key>
-		<real>25.651994</real>
+		<string>-100.288778</string>
 		<key>latitud</key>
-		<real>-100.288768</real>
+		<string> 25.652000</string>
 		<key>nombre</key>
 		<string>Escuela de Arte</string>
 		<key>etiqueta</key>
@@ -14,53 +14,53 @@
 	</dict>
 	<dict>
 		<key>longitud</key>
-		<string></string>
+		<string>-100.292526</string>
 		<key>latitud</key>
-		<string></string>
+		<string>25.653631</string>
 		<key>nombre</key>
-		<string></string>
+		<string>Centro de Estudios para el Desarrollo Sostenible</string>
 		<key>etiqueta</key>
-		<string></string>
+		<string>CEDES</string>
 	</dict>
 	<dict>
 		<key>longitud</key>
-		<string></string>
+		<string>-100.290953</string>
 		<key>latitud</key>
-		<string></string>
+		<string>25.650435</string>
 		<key>nombre</key>
-		<string></string>
+		<string>Centro de Tecnología Avanzada</string>
 		<key>etiqueta</key>
-		<string></string>
+		<string>CETEC</string>
 	</dict>
 	<dict>
 		<key>longitud</key>
-		<string></string>
+		<string>-100.286405</string>
 		<key>latitud</key>
-		<string></string>
+		<string>25.652272</string>
 		<key>nombre</key>
-		<string></string>
+		<string>Estadio Tecnológico</string>
 		<key>etiqueta</key>
-		<string></string>
+		<string>Estadio</string>
 	</dict>
 	<dict>
 		<key>longitud</key>
-		<string></string>
+		<string>-100.290839</string>
 		<key>latitud</key>
-		<string></string>
+		<string>25.651449</string>
 		<key>nombre</key>
-		<string></string>
+		<string>Vicerrectoría de enseñanza</string>
 		<key>etiqueta</key>
-		<string></string>
+		<string>Rectoría</string>
 	</dict>
 	<dict>
 		<key>longitud</key>
-		<string></string>
+		<string>-100.287193</string>
 		<key>latitud</key>
-		<string></string>
+		<string>25.650637</string>
 		<key>nombre</key>
-		<string></string>
+		<string>Gimnasio Tecnológico</string>
 		<key>etiqueta</key>
-		<string></string>
+		<string>Gimnasio</string>
 	</dict>
 </array>
 </plist>

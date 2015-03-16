@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, strong) NSArray *place;
+@property (nonatomic) NSInteger row;
 
 @end
 

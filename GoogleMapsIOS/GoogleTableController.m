@@ -103,4 +103,13 @@
 }
 */
 
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    /*if(!self.detailView){
+        self.detailView = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
+    }*/
+    self.detailView = [ViewController alloc];
+    self.detailView.row = [indexPath row];
+    [self.navigationController pushViewController:self.detailView animated:YES];
+}
+
 @end
