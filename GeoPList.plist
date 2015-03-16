@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>longitud</key>
+		<real>25.651994</real>
+		<key>latitud</key>
+		<real>-100.288768</real>
+		<key>nombre</key>
+		<string>Escuela de Arte</string>
+		<key>etiqueta</key>
+		<string>ATLI</string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string></string>
+		<key>latitud</key>
+		<string></string>
+		<key>nombre</key>
+		<string></string>
+		<key>etiqueta</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string></string>
+		<key>latitud</key>
+		<string></string>
+		<key>nombre</key>
+		<string></string>
+		<key>etiqueta</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string></string>
+		<key>latitud</key>
+		<string></string>
+		<key>nombre</key>
+		<string></string>
+		<key>etiqueta</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string></string>
+		<key>latitud</key>
+		<string></string>
+		<key>nombre</key>
+		<string></string>
+		<key>etiqueta</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>longitud</key>
+		<string></string>
+		<key>latitud</key>
+		<string></string>
+		<key>nombre</key>
+		<string></string>
+		<key>etiqueta</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
